@@ -52,8 +52,7 @@ ML-Project/
 │   ├── figures/          fig01 ... fig21
 │   └── tables/           results, overfitting and stability tables (csv) + best parameters (json)
 └── report/
-    ├── report.pdf
-    └── report.docx       editable version (fill in team names, then export to PDF)
+    └── report.pdf
 ```
 
 The report uses its own figure numbers (Figure 1-8). Each caption names the file it comes from,
