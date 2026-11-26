@@ -1,0 +1,15 @@
+{
+  "Logistic Regression": {
+    "model__C": 100
+  },
+  "Random Forest": {
+    "model__max_depth": 20,
+    "model__min_samples_split": 10,
+    "model__n_estimators": 200
+  },
+  "SVM": {
+    "model__C": 10,
+    "model__gamma": "scale",
+    "model__kernel": "rbf"
+  }
+}
